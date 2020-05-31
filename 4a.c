@@ -1,3 +1,6 @@
+/*Write a program to obtain the Topological ordering of vertices in a given digraph using
+a)Vertices deletion method */
+
 #include<stdio.h>
 #include<stdlib.h>
 
