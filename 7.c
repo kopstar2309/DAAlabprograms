@@ -1,3 +1,5 @@
+/*Write a program to implement 0/1 Knapsack problem using dynamic programming*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
