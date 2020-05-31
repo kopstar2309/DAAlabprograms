@@ -1,3 +1,5 @@
+/*Write a program to sort a given set of elements using Quick sort method and find the timerequired to sort the elements*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #define max 1000
