@@ -1,5 +1,6 @@
 /*Write a program to print all the nodes reachable from a given starting node in a graphusing Depth First Search method and 
-Breadth First method*/
+Breadth First method. Also check connectivity of thegraph. If the graph is not connected, display the number of components 
+in the graph.*/
 
 #include<stdio.h>
 int count=0;
