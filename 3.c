@@ -1,3 +1,6 @@
+/*Write a program to print all the nodes reachable from a given starting node in a graphusing Depth First Search method and 
+Breadth First method*/
+
 #include<stdio.h>
 int count=0;
 
