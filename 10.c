@@ -1,3 +1,7 @@
+/*Write a program to find a subset of a given set S = {S1, S2,.....,Sn} of npositive integers whose sum is equal to a given 
+positive integer d. For example, if S ={1, 2,5, 6, 8} and d= 9, there are two solutions {1,2,6}and {1,8}. Display a suitable
+message, ifthe given problem instance doesn't have a solution.*/
+
 #include<stdio.h>
 int n,d,sum=0,rwt=0,a[10],s[10],flag=0;
 int j;
