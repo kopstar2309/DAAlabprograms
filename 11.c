@@ -1,3 +1,5 @@
+/*Write a program to implement N -queens problem using backtracking*/
+
 #include<stdio.h> 
 #include<math.h> 
 #include<stdlib.h> 
