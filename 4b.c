@@ -1,3 +1,6 @@
+/*Write a program to obtain the Topological ordering of vertices in a given digraph using
+b)DFS method*/
+
 #include<stdio.h>
 #include<stdlib.h>
 int j=0,pop[10],vis[10];
