@@ -1,3 +1,5 @@
+/*Write a program to implement Horspool’s algorithm for String Matching*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
