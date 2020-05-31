@@ -1,3 +1,5 @@
+/*Write a program to find the shortest path using Dijkstra’s algorithm for a weightedconnected graph*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
