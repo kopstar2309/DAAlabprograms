@@ -1,3 +1,6 @@
+/*Write a program to sort a given set of elements using Merge sort method and find the timerequired to sort the elements*/
+
+
 #include<stdio.h>
 int b[600],count=0;
 void merge(int a[],int low,int mid,int high){
