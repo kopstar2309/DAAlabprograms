@@ -1,3 +1,5 @@
+/*Write a program to find Minimum cost spanning tree of a given undirected graph usingPrim’s algorithm.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
